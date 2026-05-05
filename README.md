@@ -34,6 +34,7 @@ How can customer shopping data be leveraged to identify trends, improve engageme
    - Summarize findings and recommendations  
    - Create a presentation with clear visuals and actionable insights  
 
+<img width="648" height="465" alt="Screenshot 2026-05-05 193554" src="https://github.com/user-attachments/assets/bd152543-3bfb-4962-8ff4-ee6cac0365ca" />
 
 ---
 
